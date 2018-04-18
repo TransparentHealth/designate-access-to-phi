@@ -3,8 +3,11 @@ Notice of Delegation of Individual Right of Access to Health Information (DRAFT)
 
 
 Pam Patient
+
 123 Your Street Your City, ST 12345
+
 (123) 456-7890
+
 pam@example.com
 
 
