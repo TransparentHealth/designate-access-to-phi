@@ -11,7 +11,7 @@ pam@example.com
 Dear Audience*,
 
 
-I am writing your organization to authorize and delegate authority  to all of my personal health information.
+I am writing your organization to authorize other individuals  to access my personal health information.
 
 
 Give These People Access
@@ -19,9 +19,9 @@ Give These People Access
 
 Grant these individuals full access to all of my of health information in all forms including but not limited to:
 
-* Online access
+* Online access, such a patient portal websites
 * Electronic copies, such as memory sticks
-* Physical media such as paper, films, and images.
+* Physical media such as paper, films, and images
 
 The individual delegates are:
 
