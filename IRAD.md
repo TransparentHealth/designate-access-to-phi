@@ -31,18 +31,13 @@ The individual delegates are:
 | Sammy Son       | Son      | 555-555-5557 | sam@example.com    |
 | Dafney Daughter | Daughter | 555-555-5558 | dafney@example.com |
 
-
-Grant Delegation of access for the following Duration
------------------------------------------------------
-
-Grant access to the Individuals for the folowing duration.
+The duration of access is:
 
 - [X] Forever
 - [ ] 5 Years
 - [ ] 7 Days
 - [ ] 72 Hours
 - [ ] Today Only
-
 
 
 Create an Account for Me Too (Optional)
@@ -60,8 +55,10 @@ Sincerely,
 __Pam Patient__
 
 
-X: <input type="text" class="signature" />
-Date:<input type="text" class="signature_date" />
+X: <hr>
+
+
+Date:<hr>
 
 
 
