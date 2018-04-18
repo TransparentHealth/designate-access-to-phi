@@ -17,8 +17,13 @@ I am writing your organization to authorize and delegate authority  to all of my
 Give These People Access
 ------------------------
 
+Grant these individuals full access to all of my of health information in all forms including but not limited to:
 
-The individuals are:
+* Online access
+* Electronic copies, such as memory sticks
+* Physical media such as paper, films, and images.
+
+The individual delegates are:
 
 | Name            | Relation | Mobile #  | Email  |
 | --------------- |:--------:|:-------------:|:------------------|
@@ -27,37 +32,27 @@ The individuals are:
 | Dafney Daughter | Daughter | 555-555-5558 | dafney@example.com |
 
 
-Create an Account for Me
--------------------------
+Grant Delegation of access for the following Duration
+-----------------------------------------------------
 
-If not already established, create an account for me as well.
+Grant access to the Individuals for the folowing duration.
 
-| Name         | Mobile #     | Email  |
+- [X] Forever
+- [ ] 5 Years
+- [ ] 7 Days
+- [ ] 72 Hours
+- [ ] Today Only
+
+
+
+Create an Account for Me Too (Optional)
+----------------------------
+
+If the following section is completed, establish an online account for me as well.
+
+| Name         | Mobile #     | Email           |
 | ------------ |-------------|:----------------:|
 | Pam Patient  | 555-555-5555 | ada@example.com |
-
-
-
-This delagation grant is good for:
-
-
-
-| Check One | Duration  |
-
-- [X] Mercury
-- [ ] Mercury
-- [ ] Mercury
-- [ ] Mercury
-
-| --------------------------------------- | -------- |
-| <input id="checkBox" type="checkbox">   | Forever  |
-| <input id="checkBox" type="checkbox">   | 5 Years  |
-| <input id="checkBox" type="checkbox">   | 7 days   |
-| <input id="checkBox" type="checkbox">   | 72 hours |
-
-
-
-This grant of my of access applies to online access, electronic copies, such as memory sticks, and physical media such as paper, films, and images.
 
 
 
