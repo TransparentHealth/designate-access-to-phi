@@ -14,8 +14,8 @@ Dear Audience*,
 I am writing your organization to authorize and delegate authority  to all of my personal health information.
 
 
-<input id="checkBox" type="checkbox"> Give These People Access
---------------------------------------------------------------
+Give These People Access
+------------------------
 
 
 The individuals are:
@@ -27,8 +27,8 @@ The individuals are:
 | Dafney Daughter | Daughter | 555-555-5558 | dafney@example.com |
 
 
-<input id="checkBox" type="checkbox"> Create an Account for Me
---------------------------------------------------------------
+Create an Account for Me
+-------------------------
 
 If not already established, create an account for me as well.
 
@@ -43,6 +43,12 @@ This delagation grant is good for:
 
 
 | Check One | Duration  |
+
+- [X] Mercury
+- [ ] Mercury
+- [ ] Mercury
+- [ ] Mercury
+
 | --------------------------------------- | -------- |
 | <input id="checkBox" type="checkbox">   | Forever  |
 | <input id="checkBox" type="checkbox">   | 5 Years  |
