@@ -1,5 +1,5 @@
-Notice of Delegation of Individual Right of Access to Health Information (DRAFT)
-==========================================================
+Notice of Designation for Individual Right of Access to Health Information (DRAFT)
+==================================================================================
 
 
 Pam Patient
@@ -17,21 +17,21 @@ pam@example.com
 Dear Audience*,
 
 
-I am writing your organization to authorize other individuals  to access my personal health information.
+I am writing your organization to designate other individuals as recipients of my protected health information (PHI), pursuant to the HIPAA Privacy Rule Right of Individual Access at 45 CFR 164.524(c)(3)).
 
 
 Give These People Access
 ------------------------
 
-Grant these individuals full access to all of my of health information in all forms including but not limited to:
+I exercise my HIPAA Individual Right of Access to have access to (and copies of) all of my PHI, in all forms, provided to the individuals named below, as the PHI becomes available.  The modes of access to the PHI that should be available to the designees includes, but is not limited to:
 
 * Online access, such a patient portal websites
 * Electronic copies, such as memory sticks
 * Physical media such as paper, films, and images
 
-The individual delegates are:
+The designees are:
 
-| Name            | Relation | Mobile #  | Email  |
+| Name            | Relation | Mobile #     | Email              |
 | --------------- |:--------:|:-------------:|:------------------|
 | Henry Husband   | Spouse   | 555-555-5556 | ada@example.com    |
 | Sammy Son       | Son      | 555-555-5557 | sam@example.com    |
@@ -45,11 +45,12 @@ The duration of access is:
 - [ ] 72 Hours
 - [ ] Today Only
 
+If PHI is sent to one of the e-mail addresses above, I acknowledge the potential security risks associated with the use of insecure e-mail and I accept those risks.  
 
 Create an Account for Me Too (Optional)
-----------------------------
+---------------------------------------
 
-If the following section is completed, establish an online account for me as well.
+If the following section is completed, establish an online account for me as well, so I can also access my PHI on-line. I also acknowledge and accept the security risks of receiving PHI via the insecure e-mail below.
 
 | Name         | Mobile #     | Email           |
 | ------------ |-------------|:----------------:|
