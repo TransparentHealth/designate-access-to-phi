@@ -1,6 +1,7 @@
-Delegation
-==========
-This repo is currently a parking lot for items related to delegation.
+Designation
+===========
+
+This repo is currently a parking lot for items related to designation other individuals as recipients of my protected health information (PHI).
 
 It contains the following:
 
