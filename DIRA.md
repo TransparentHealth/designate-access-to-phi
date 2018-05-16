@@ -1,5 +1,5 @@
-Notice of Designation for Individual Right of Access to Health Information (DRAFT)
-==================================================================================
+Example Notice of Designation for Individual Right of Access (DIRA) to Health Information
+=========================================================================================
 
 
 Pam Patient
