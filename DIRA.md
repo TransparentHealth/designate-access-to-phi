@@ -49,9 +49,9 @@ The duration of access is:
 Acknowledgement of Insecure Transport
 -------------------------------------
 
-If checked, I grant permission for my PHI to be sent insecurely to my email and the email addresses above.
+If checked, I grant permission for my PHI to be insecurely in an emergency situation.
 
-- [X] Yes I authorize my data to be sent over insecure email. I acknowledge the potential security risks associated with the use of insecure e-mail and I accept those risks. 
+- [X] Yes, in the event of an emergency, I authorize you to transmit my PHI over insecure email and other insecure forms of electronic communication. I acknowledge the potential security risks associated with the use of insecure e-mail and I accept those risks. 
 
 
 
