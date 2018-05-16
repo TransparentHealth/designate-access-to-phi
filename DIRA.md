@@ -45,7 +45,10 @@ The duration of access is:
 - [ ] 72 Hours
 - [ ] Today Only
 
-If PHI is sent to one of the e-mail addresses above, I acknowledge the potential security risks associated with the use of insecure e-mail and I accept those risks.  
+Acknowledgement of Insecure Transport
+`````````````````````````````````````
+
+I grant permission for my PHI to be sent to the email addresses above. I acknowledge the potential security risks associated with the use of insecure e-mail and I accept those risks.  
 
 Create an Account for Me Too (Optional)
 ---------------------------------------
