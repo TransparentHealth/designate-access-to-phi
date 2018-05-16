@@ -33,7 +33,7 @@ The designees are:
 
 | Name            | Relation | Mobile #     | Email              |
 | --------------- |:--------:|:-------------:|:------------------|
-| Henry Husband   | Spouse   | 555-555-5556 | ada@example.com    |
+| Henry Husband   | Spouse   | 555-555-5556 | henry@example.com    |
 | Sammy Son       | Son      | 555-555-5557 | sam@example.com    |
 | Dafney Daughter | Daughter | 555-555-5558 | dafney@example.com |
 
@@ -54,7 +54,7 @@ If the following section is completed, establish an online account for me as wel
 
 | Name         | Mobile #     | Email           |
 | ------------ |-------------|:----------------:|
-| Pam Patient  | 555-555-5555 | ada@example.com |
+| Pam Patient  | 555-555-5555 | pam@example.com |
 
 
 
