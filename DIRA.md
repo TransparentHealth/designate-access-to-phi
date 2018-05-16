@@ -1,8 +1,5 @@
-Designation for Individual Right of Access (DIRA) Notice
-========================================================
-
-Example
-=======
+Designation for Individual Right of Access (DIRA) Notice - EXAMPLE
+==================================================================
 
 
 
