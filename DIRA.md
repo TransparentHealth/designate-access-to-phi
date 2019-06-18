@@ -26,7 +26,7 @@ Give These People Access to my Personal Health Information (PHI)
 
 I exercise my HIPAA Individual Right of Access to have access to (and copies of) all of my PHI, in all forms, provided to the individuals named below, as the PHI becomes available.  The modes of access to the PHI that should be available to the designees includes, but is not limited to:
 
-* Online access, such a patient portal websites
+* Online access, such as a patient portal or webservice
 * Electronic copies, such as memory sticks
 * Physical media such as paper, films, and images
 
